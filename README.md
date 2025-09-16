@@ -1172,15 +1172,6 @@ Agustus 2025-23 Mei 2026.</span></p>
   </td>
  </tr>
 </table>
-
-<style>
-details summary {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 10pt;
-  font-weight: bold;
-  cursor: pointer;
-}
-</style>  
   
 <p class="MsoNormal" style="line-height: 115%; margin-top: 12.0pt; text-align: justify;"><b><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 115%;">Hasil Pertandingan:</span></b></p>
 
